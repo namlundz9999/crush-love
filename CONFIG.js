@@ -6,5 +6,5 @@ const CONFIGDATA = {
   buttonNo: "tớ không thích cậu",
   titleModar: "ai lớp diu",
   descriptionModar:
-    'trên thế giới này tớ chỉ thích cậu thôi^^ </br> Cám ơn cậu đã đồng ý để cho tớ được che chở và bảo vệ cậu.Đối với tớ, cậu mãi là cô bé :)) </br> "ai lớp diu. </br>  ai lớp diu "',
+    'yêu cậu^^ </br> Cám ơn cậu đã đồng ý để cho tớ được che chở và bảo vệ cậu.Đối với tớ, cậu mãi là cô bé :)) </br> "ai lớp diu. </br>  ai lớp diu "',
 };
